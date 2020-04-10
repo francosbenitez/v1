@@ -25,6 +25,4 @@ Es bastante común para mí encontrarme con sus defensores apelando ya sea a fal
 
 Considero que hay una necesidad fundamental en formar más en filosofía. Esto podría evitar que los estudiantes se acerquen acríticamente a una disciplina que a mi juicio no resiste ni un análisis lógico ni uno epistemológico. Por otro lado, la formación en ciencia -entendida como una subdisciplina de la filosofía- es fundamental para **no** deificar el conocimiento, sino para tener filtros más rigurosos para conseguirlo; lo cual, por cierto, será siempre un continuo y jamás estará dado de una vez por todas.
 
-GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
-
 
