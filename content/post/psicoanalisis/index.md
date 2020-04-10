@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 date: "2020-04-09"
-lastMod: "2019-04-10"
+lastMod: "2020-04-10"
 featured: true
 image:
   caption: 'Freud. Probablemente mirándome decepcionado por mi punto de vista'
