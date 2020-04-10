@@ -1,0 +1,11 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "",
+        "projectRelative" : true,
+        "query" : "/opt/build/repo/themes/hugo-academic/layouts/partials/functions/get_address.html",
+        "regex" : false
+    }
+}
