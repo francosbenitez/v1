@@ -5,26 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>Franco Sebastián Benítez © 2020 </copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>Franco Sebastián Benítez © 2020 </copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title>¿Por qué no me gusta el psicoanálisis?</title>
-      <link>/post/psicoanalisis/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/psicoanalisis/</guid>
-      <description>&lt;p&gt;Estudio hace cuatro años en la Facultad de Psicología de la Universidad de Buenos Aires (UBA). Cuando comenzaba, por las casualidades de la vida me empezaba a introducir en la postura denominada &lt;em&gt;escepticismo metodológico&lt;/em&gt;; esto es, a grosso modo, la práctica sistemática de dudar de todo aquello que se afirmara en ausencia de pruebas.&lt;/p&gt;
-&lt;p&gt;Por ende, iba desde aquel entonces, dejando de lado la complacencia en discutir sólo para confirmar mis ideas previas, e iba adquiriendo el hábito de la discusión para continuar aprendiendo - tanto de los buenos argumentos como de la buena evidencia.&lt;/p&gt;
-&lt;p&gt;Con todo, a medida que iba avanzando como estudiante, me iban creciendo ciertas dudas acerca de la legitimidad del psicoanálisis como &lt;strong&gt;paradigma hegemónico dentro de la psicología argentina.&lt;/strong&gt; En particular, me empezaba a preguntar acerca de sus fundamentos; esto es, la cuestión filosófica -o subyacente- tanto de su oferta tan amplia como de sí mismo. En pocas palabras, acerca de por qué se lo enseña tanto, así como qué es lo que tiene de bueno para ofrecer.&lt;/p&gt;
-&lt;p&gt;A lo cual, brevemente respondería: su oferta tan amplia se debe a razones históricas que retrasaron o cuestionaron el crecimiento de la psicología científica. El ensalzamiento de la subjetividad en detrimento del -lo que yo considero- rigor y mayor objetividad de la psicología científica, se topó con asunciones filosóficas que hicieron infructuosa la difusión de esta última. Por supuesto esta es una idea que habría que corroborar con evidencia histórica. En cuanto a qué es lo que tiene de bueno para ofrecer, tengo mis grandes reservas. No considero que su visión epistemológica del conocimiento -es decir, acerca del conocimiento y su adquisión- sea rigurosa. Por lo tanto, filosóficamente hablando la considero una visión más bien errada: que no tiene en cuenta avances en psicología científica y se encuentra impregnada con montones de falacias.&lt;/p&gt;
-&lt;p&gt;Es bastante común para mí encontrarme con sus defensores apelando ya sea a falacias de autoridad o ya sea a casos individuales -o evidencia anecdótica- para fundamentar sus conocimientos. También, las tergiversaciones o &lt;em&gt;strawmans&lt;/em&gt; se encuentran a la orden del día.&lt;/p&gt;
-&lt;p&gt;Considero que hay una necesidad fundamental en formar más en filosofía. Esto podría evitar que los estudiantes se acerquen acríticamente a una disciplina que a mi juicio no resiste ni un análisis lógico ni uno epistemológico. Por otro lado, la formación en ciencia -entendida como una subdisciplina de la filosofía- es fundamental para &lt;strong&gt;no&lt;/strong&gt; deificar el conocimiento, sino para tener filtros más rigurosos para conseguirlo; lo cual, por cierto, será siempre un continuo y jamás estará dado de una vez por todas.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
