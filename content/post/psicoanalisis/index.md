@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué no me gusta el psicoanálisis?"
-subtitle: Algunas razones de mi desazón.
-summary: Algunas razones de mi desazón.
+subtitle: Algunas razones de mi desazón
+summary: Algunas razones de mi desazón
 authors:
 - admin
 tags: []
@@ -10,7 +10,7 @@ date: "2020-04-09"
 lastMod: "2020-04-10"
 featured: true
 image:
-  caption: 'Freud. Probablemente mirándome decepcionado por mi punto de vista'
+  caption: 'Freud. Probablemente mirándome decepcionado por mi punto de vista.'
 draft: false
 ---
 Estudio hace cuatro años en la Facultad de Psicología de la Universidad de Buenos Aires (UBA). Cuando comenzaba, por las casualidades de la vida me empezaba a introducir en la postura denominada *escepticismo metodológico*; esto es, a grosso modo, la práctica sistemática de dudar de todo aquello que se afirmara en ausencia de pruebas.
