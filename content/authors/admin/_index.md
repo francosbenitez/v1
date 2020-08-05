@@ -47,4 +47,4 @@ user_groups:
 - Visitors
 ---
 
-Franco Sebastián Benítez es un estudiante de psicología de la Universidad de Buenos Aires (UBA). Sus intereses profesionales incluyen la investigación cuantitativa, ciencia de datos, epidemiología y psicometría.
+Franco Sebastián Benítez es estudiante de psicología de la Universidad de Buenos Aires (UBA). Sus intereses profesionales incluyen la investigación cuantitativa, ciencia de datos, epidemiología y psicometría.
