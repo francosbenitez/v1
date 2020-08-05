@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596597477213.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "961069235",
+    "id" : "5373063B",
+    "lastKnownWriteTime" : 1586635087,
+    "last_content_update" : 1586635087,
+    "path" : "~/GitHub/website/public/authors/admin/index.xml",
+    "project_path" : "public/authors/admin/index.xml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "xml"
+}
