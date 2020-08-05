@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "961069235",
+    "hash" : "0",
     "id" : "5373063B",
-    "lastKnownWriteTime" : 1586635087,
-    "last_content_update" : 1586635087,
+    "lastKnownWriteTime" : 1596599019,
+    "last_content_update" : 1596599019,
     "path" : "~/GitHub/website/public/authors/admin/index.xml",
     "project_path" : "public/authors/admin/index.xml",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
