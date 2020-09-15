@@ -31,7 +31,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/francosbenitez
+  link: '#twitter'
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/francosbenitez

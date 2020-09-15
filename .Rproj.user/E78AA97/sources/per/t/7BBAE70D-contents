@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="¿Por qué debería importarnos?">
+  <meta name="description" content="Estudiante de Psicología">
 
   
-  <link rel="alternate" hreflang="es" href="/replicabilidad/">
+  <link rel="alternate" hreflang="es" href="/authors/admin/">
 
   
 
@@ -210,12 +210,14 @@
 
 
   
+  <link rel="alternate" href="/authors/admin/index.xml" type="application/rss+xml" title="Franco Sebastián Benítez">
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/replicabilidad/">
+  <link rel="canonical" href="/authors/admin/">
 
   
   
@@ -223,27 +225,23 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Franco Sebastián Benítez">
-  <meta property="og:url" content="/replicabilidad/">
-  <meta property="og:title" content="Crisis de replicabilidad | Franco Sebastián Benítez">
-  <meta property="og:description" content="¿Por qué debería importarnos?"><meta property="og:image" content="/replicabilidad/featured.jpeg">
-  <meta property="twitter:image" content="/replicabilidad/featured.jpeg"><meta property="og:locale" content="es">
+  <meta property="og:url" content="/authors/admin/">
+  <meta property="og:title" content="Franco Sebastián Benítez | Franco Sebastián Benítez">
+  <meta property="og:description" content="Estudiante de Psicología"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="es">
   
     
-      <meta property="article:published_time" content="2020-04-09T00:00:00&#43;00:00">
-    
-    <meta property="article:modified_time" content="2019-04-09T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
 
 
   
@@ -255,7 +253,7 @@
 
 
 
-  <title>Crisis de replicabilidad | Franco Sebastián Benítez</title>
+  <title>Franco Sebastián Benítez | Franco Sebastián Benítez</title>
 
 </head>
 
@@ -412,6 +410,35 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#twitter"><span>Twitter</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contacto</span></a>
         </li>
 
@@ -478,75 +505,22 @@
 </nav>
 
 
-  <article class="article">
-
   
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
+<section id="profile-page" class="pt-5">
+  <div class="container">
     
-  
-
-
-<div class="article-container pt-3">
-  <h1>Crisis de replicabilidad</h1>
-
-  
-
-  
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
     
+      
+      
+      
+      
 
-  
-  <span><a href="/authors/admin/">Franco Sebastián Benítez</a></span>
-  </div>
-  
-  
 
-  
 
-  
-
-  
-
-  
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/replicabilidad/#disqus_thread"></a>
-  
-
-  
-  
-
-</div>
 
   
 
@@ -559,70 +533,186 @@
 
 
 
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
 
+      
+      
+      <img class="avatar avatar-circle" src="/authors/admin/avatar_hu9ec22efa5304da7fd195a4fbef7964a4_21806_250x250_fill_q90_lanczos_center.jpg" alt="Franco Sebastián Benítez">
+      
 
+      <div class="portrait-title">
+        <h2>Franco Sebastián Benítez</h2>
+        <h3>Estudiante de Psicología</h3>
 
+        
+        <h3>
+          <a href="http://www.psi.uba.ar/" target="_blank" rel="noopener">
+          <span>PSI, UBA</span>
+          </a>
+        </h3>
+        
+      </div>
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 408px;">
-  <div style="position: relative">
-    <img src="/replicabilidad/featured_hu624ee688fd1ff5ef3b03fc32a3fcd6ac_97668_720x0_resize_q90_lanczos.jpeg" alt="" class="featured-image">
-    
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>En, 2011 dos hechos claves marcaron un hito dentro de la investigación psicológica: el caso de fraude científico de Stepel, y el estudio de Bem sobre percepción extrasensorial (Renkewitz &amp; Heene, 2019). En el primer caso, Stepel reconoció haber manipulado los datos (Voger, 2011). En el segundo caso, Bem reportó nueve estudios exitosos, aunque subsecuentes estudios fallaron a replicarlo (Schimmack, 2012). </p>
-<p>These activities are now commonly known as the open science movement, which regards research transparency as a means against human error, sloppiness, publication bias, and fraud in science.
-Although Bem reported nine successful studies, subsequent studies failed to replicate this finding and raised concerns about the integrity of Bem&rsquo;s studies (Schimmack, 2012).
-New initiatives that are called open science are likely to improve the replicability of psychological science in the future, although progress towards this goal is painfully slow.
-In empirical studies with sampling error, replicability refers to the probability of a study with a significant result to produce a significant result again in an exact replication study of the first study using the same sample size and significance criterion (Schimmack, 2017).</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#twitter" >
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://facebook.com/francosbenitez" target="_blank" rel="noopener">
+            <i class="fab fa-facebook big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://instagram.com/francosbenitez" target="_blank" rel="noopener">
+            <i class="fab fa-instagram big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.linkedin.com/in/francosbenitez/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
 
     </div>
+  </div>
+  <div class="col-12 col-lg-8">
 
     
-
-
-
-
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
     
-  </ul>
+
+    <p>Franco Sebastián Benítez es estudiante de psicología de la Universidad de Buenos Aires (UBA). Sus intereses profesionales incluyen la investigación cuantitativa, ciencia de datos, epidemiología y psicometría.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Intereses</h3>
+        <ul class="ul-interests">
+          
+          <li>Metodología</li>
+          
+          <li>Estadística</li>
+          
+          <li>Epistemología</li>
+          
+          <li>Lógica</li>
+          
+          <li>Ética</li>
+          
+          <li>Salud</li>
+          
+          <li>R</li>
+          
+          <li>Metaciencia</li>
+          
+          <li>Ciencia abierta</li>
+          
+          <li>Ciencia de datos</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Educación</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Licenciatura en Psicología, 2016-En curso</p>
+              <p class="institution">Universidad de Buenos Aires</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
 </div>
 
-
-
-
-
-
-
-
-<section id="comments">
-  
     
 
-  
-</section>
-
-
-
-
-
-
-
-
+    
+    
+    
   </div>
-</article>
+</section>
 
       
 
