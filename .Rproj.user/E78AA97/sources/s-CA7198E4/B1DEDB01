@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600542074901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1DEDB01",
+    "lastKnownWriteTime" : 1600542988,
+    "last_content_update" : 1600542988980,
+    "path" : "~/GitHub/website/themes/hugo-academic/layouts/partials/widgets/twitter.html",
+    "project_path" : "themes/hugo-academic/layouts/partials/widgets/twitter.html",
+    "properties" : {
+        "cursorPosition" : "15,142",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
