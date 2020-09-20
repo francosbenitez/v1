@@ -16,7 +16,7 @@ draft: false
 Mi abuelo decía: 
 > El que sabe sabe, y el que no, mira. 
 
-## Lenguajes de programación
+## Programas estadísticos
 
 - [R](https://learningstatisticswithr.com/book/)
 - [JASP](https://learnstatswithjasp.com/)
