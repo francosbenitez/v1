@@ -1,5 +1,5 @@
 {
-    "path" : "~/GitHub/website/content/post/herramientas",
+    "path" : "~/GitHub/website/themes/hugo-academic/layouts/partials/widgets",
     "sortOrder" : [
         {
             "ascending" : true,
