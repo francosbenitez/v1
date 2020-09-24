@@ -32,15 +32,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: '#twitter'
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/francosbenitez
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/francosbenitez
 - icon: github
   icon_pack: fab
   link: https://github.com/francosbenitez
-# - icon: facebook
-#  icon_pack: fab
-#  link: https://facebook.com/francosbenitez
-# - icon: instagram
-#  icon_pack: fab
-#  link: https://instagram.com/francosbenitez
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francosbenitez/
