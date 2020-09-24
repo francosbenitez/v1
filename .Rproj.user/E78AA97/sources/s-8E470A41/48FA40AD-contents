@@ -34,6 +34,6 @@ Mi abuelo decía:
 - [Library Genesis](http://libgen.rs/)
 
 **Este post se encuentra en construcción.**
-![En construcción](/post/herramientas/building.jpg "En construcción")
+![En construcción](/post/herramientas/building.jpg "Construcción")
 
 
