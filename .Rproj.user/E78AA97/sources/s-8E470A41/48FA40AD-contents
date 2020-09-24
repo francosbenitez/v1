@@ -33,7 +33,7 @@ Mi abuelo decía:
 - [Sci-Hub](https://sci-hub.tw/)
 - [Library Genesis](http://libgen.rs/)
 
-**Sepa disculpar. Este post está en construcción.**
+**Este post se encuentra en construcción.**
 ![En construcción](/post/herramientas/building.jpg "En construcción")
 
 
