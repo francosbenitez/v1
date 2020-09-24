@@ -16,7 +16,7 @@ draft: false
 Mi abuelo decía: 
 > El que sabe sabe, y el que no, mira. 
 
-## Programas estadísticos
+## Libros sobre programas estadísticos
 
 - [R](https://learningstatisticswithr.com/book/)
 - [JASP](https://learnstatswithjasp.com/)
@@ -27,12 +27,13 @@ Mi abuelo decía:
 - [Zotero](https://www.zotero.org/)
 - [Mendeley](https://www.mendeley.com/)
 
-## Descargar libros y artículos científicos
+
+## Descargar libros y artículos científicos gratis
 
 - [Sci-Hub](https://sci-hub.tw/)
-- [LibGen](http://libgen.rs/)
+- [Library Genesis](http://libgen.rs/)
 
-*Este post está en:*
+**Sepa disculpar. Este post está en construcción.**
 ![En construcción](/post/herramientas/building.jpg "En construcción")
 
 
