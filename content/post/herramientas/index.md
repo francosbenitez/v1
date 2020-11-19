@@ -13,9 +13,8 @@ image:
   caption: ''
 draft: false
 ---
-Mi abuelo decía: 
-> El que sabe sabe, y el que no, mira. 
 
+---
 ## Libros sobre programas estadísticos
 
 - [R](https://learningstatisticswithr.com/book/)
@@ -33,7 +32,13 @@ Mi abuelo decía:
 - [Sci-Hub](https://sci-hub.tw/)
 - [Library Genesis](http://libgen.rs/)
 
-**Este post se encuentra en construcción.**
-![En construcción](/post/herramientas/building.jpg "Construcción")
+## Grupos de Facebook 
+
+- [Movimiento Estudiantil por la Psicología Científica (MEPC)](https://www.facebook.com/groups/2641583789449049/)
+- [Escepticismo en psicología y disciplinas afines](https://www.facebook.com/groups/Escepticismoenpsicologiaydisciplinasafines/)
+- [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
+- [Intercambio en Psicología Científica](https://www.facebook.com/groups/psicologiacientifica/)
+
+
 
 
