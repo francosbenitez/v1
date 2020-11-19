@@ -11,7 +11,11 @@ lastMod: "2020-11-19"
 featured: true
 image:
   caption: ''
-draft: false
+draft: 
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 6
 ---
 Mucho ha sido discutido sobre crisis de replicabilidad y prácticas de ciencia abierta durante lo que va del siglo XXI. Desde 2005, un investigador se animaba a fundamentar que *la mayoría de los hallazgos de investigación publicados son falsos* (Ioannidis, 2005). Sucintamente, su crítica giraba en torno de las siguientes cuestiones: (a) tamaños de efecto pequeños, (b) sesgo de publicación, (c) manipulación de resultados y (d) poco poder estadístico (Charris, 2018).
 
