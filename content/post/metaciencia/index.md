@@ -1,5 +1,5 @@
 ---
-title: "Crisis de replicabilidad y ciencia abierta"
+title: "Crisis de replicabilidad y ciencia abierta en psicología"
 subtitle: Los problemas y las soluciones de la ciencia psicológica
 summary: Los problemas y las soluciones de la ciencia psicológica
 authors:

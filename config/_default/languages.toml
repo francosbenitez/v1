@@ -17,7 +17,7 @@
   description = ""
   [[es.menu.main]]
   name = "Acerca"
-  url = "/"
+  url = "#acerca"
   weight = 10
 #  [[es.menu.main]]
 #  name = "Experiencia"
