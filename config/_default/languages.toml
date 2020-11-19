@@ -17,7 +17,7 @@
   description = ""
   [[es.menu.main]]
   name = "Acerca"
-  url = "#about"
+  url = "/"
   weight = 10
 #  [[es.menu.main]]
 #  name = "Experiencia"
@@ -25,15 +25,15 @@
 #  weight = 20
   [[es.menu.main]]
   name = "Blog"
-  url = "#posts"
+  url = "/blog"
   weight = 20
-  [[es.menu.main]]
-  name = "Twitter"
-  url = "#twitter"
-  weight = 30
+#  [[es.menu.main]]
+#  name = "Twitter"
+#  url = "#twitter"
+#  weight = 30
   [[es.menu.main]]
   name = "Contacto"
-  url = "#contact"
+  url = "/contacto"
   weight = 40
   [[es.menu.main]]
 #  name = "CV"

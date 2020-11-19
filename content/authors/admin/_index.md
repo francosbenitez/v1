@@ -28,22 +28,22 @@ role: Estudiante de Psicología
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: '/contacto'
 - icon: twitter
   icon_pack: fab
-  link: '#twitter'
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/francosbenitez
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/francosbenitez
+  link: https://twitter.com/francosbenitez
+# - icon: facebook
+#  icon_pack: fab
+#  link: https://facebook.com/francosbenitez
+# - icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/francosbenitez
 - icon: github
   icon_pack: fab
   link: https://github.com/francosbenitez
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/francosbenitez/
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/francosbenitez/
 superuser: true
 user_groups:
 - Researchers

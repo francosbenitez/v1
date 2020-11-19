@@ -1,3 +1,6 @@
+- id: authors
+  translation: Autores
+
 - id: toggle_navigation
   translation: Barra de navegación
 - id: table_of_contents

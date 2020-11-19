@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/website/content/post/herramientas",
-    "sortOrder" : [
+    "path": "~/GitHub/website/themes/hugo-academic/data/themes",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
