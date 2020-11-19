@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts | Franco Sebastián Benítez</title>
+    <link>/drafts/</link>
+      <atom:link href="/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drafts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>Franco Sebastián Benítez © 2020 </copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Drafts</title>
+      <link>/drafts/</link>
+    </image>
+    
+    <item>
+      <title>Crisis de replicabilidad</title>
+      <link>/drafts/replicabilidad/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/drafts/replicabilidad/</guid>
+      <description>&lt;p&gt;En, 2011 dos hechos claves marcaron un hito dentro de la investigación psicológica: el caso de fraude científico de Stepel, y el estudio de Bem sobre percepción extrasensorial (Renkewitz &amp;amp; Heene, 2019). En el primer caso, Stepel reconoció haber manipulado los datos (Voger, 2011). En el segundo caso, Bem reportó nueve estudios exitosos, aunque subsecuentes estudios fallaron a replicarlo (Schimmack, 2012). &lt;/p&gt;
+&lt;p&gt;These activities are now commonly known as the open science movement, which regards research transparency as a means against human error, sloppiness, publication bias, and fraud in science.
+Although Bem reported nine successful studies, subsequent studies failed to replicate this finding and raised concerns about the integrity of Bem&amp;rsquo;s studies (Schimmack, 2012).
+New initiatives that are called open science are likely to improve the replicability of psychological science in the future, although progress towards this goal is painfully slow.
+In empirical studies with sampling error, replicability refers to the probability of a study with a significant result to produce a significant result again in an exact replication study of the first study using the same sample size and significance criterion (Schimmack, 2017).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuentes útiles para estudiantes de psicología</title>
+      <link>/drafts/fuentes/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/drafts/fuentes/</guid>
+      <description>&lt;p&gt;La siguiente lista engloba algunas herramientas para reflexionar críticamente sobre el rol de la psicología a nivel internacional.&lt;/p&gt;
+&lt;h2 id=&#34;podcasts&#34;&gt;Podcasts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;En español:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En inglés:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;herramientas-organizacionales&#34;&gt;Herramientas organizacionales&lt;/h2&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;h2 id=&#34;cuentas-de-twitter&#34;&gt;Cuentas de Twitter&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
