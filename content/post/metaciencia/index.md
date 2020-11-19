@@ -31,8 +31,6 @@ Morling & Calin-Jageman (2020) dividen las nuevas prácticas que este movimiento
 
 Finalmente, como mencionan Mede et al. (2020), algunos investigadores distinguen entre replicabilidad [^1] y reproducibilidad: mientras que la primera alude a observar consistentemente ciertos resultados en *nuevas* muestras usando metodologías y condiciones *similares* a aquellas del estudio original, la reproducibilidad refiere a observar consistentemente ciertos resultados cuando se repiten los *mismos* procesamientos de datos y análisis estadísticos sobre los datos *originales* (LeBel et al., 2018, p.390; citado en Mede et al., 2020, p.9). Sin embargo, como también mencionan, otros autores tales como Anvari & Lakens (2018) y Chopik et al. (2018), a quienes veremos en próximas publicaciones, no hacen tal distinción y, antes bien, utilizan los términos intercambiablemente.
 
-[^1]: Charris (2018) diferencia entre la replicación directa y la conceptual: mientras que la primera refiere a intentar reproducir el estudio original utilizando los mismos métodos, materiales y forma de presentación teniendo como única diferencia la muestra, la segunda alude a poner a poner a prueba la misma hipótesis del estudio original con otros diseños. Según este autor, la interpretación de ambas réplicas se debe interpretar de manera distinta, puesto que en las réplicas directas existe mayor control. Las réplicas directas son las que se han llevado a cabo en proyectos ya mencionados tales como el *Reproducibility Project: Psychology* y los *Many Labs*.
-
 **Bibliografía**
 
 Anvari, F., & Lakens, D. (2018). The replicability crisis and public trust in psychological science. Comprehensive Results in Social Psychology, 3(3), 266-286. https://doi.org/10.1080/23743603.2019.1684822
@@ -44,6 +42,7 @@ Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, 
 Cassidy, S. A., Dimova, R., Giguère, B., Spence, J. R., & Stanley, D. J. (2019). Failing grade: 89% of introduction-to-psychology textbooks that define or explain statistical significance do so incorrectly. Advances in Methods and Practices in Psychological Science, 2(3), 233-239.
 
 Chambers, C., (2017). The seven deadly sins of psychology: A manifesto for reforming the culture of scientific practice, Princeton, New Jersey: Princeton University Press.
+
 Charris Domínguez, R. A. (2018). Cómo evaluar una réplica en psicología (tesis de máster). Universidad de los Andes, Bogotá, Colombia.
 
 Chopik, W. J., Bremner, R. H., Defever, A. M., & Keller, V. N. (2018). How (and whether) to teach undergraduates about the replication crisis in psychological science. Teaching of psychology, 45(2), 158-163. https://doi.org/10.1177/0098628318762900
@@ -69,3 +68,5 @@ Stroebe, W. (2019). What Can We Learn from Many Labs Replications? Basic and App
 Verfaellie, M., & McGwin, J. (2011, diciembre). The case of Diederik Stepel. Psychological Science Agenda. Recuperado de https://www.apa.org/science/about/psa/2011/12/diederik-stapel
 
 Yong, E. (2018, 19 de noviembre). Psychology’s Replication Crisis Is Running Out of Excuses. The Atlantic. Recuperado de https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/
+
+[^1]: Charris (2018) diferencia entre la replicación directa y la conceptual: mientras que la primera refiere a intentar reproducir el estudio original utilizando los mismos métodos, materiales y forma de presentación teniendo como única diferencia la muestra, la segunda alude a poner a poner a prueba la misma hipótesis del estudio original con otros diseños. Según este autor, la interpretación de ambas réplicas se debe interpretar de manera distinta, puesto que en las réplicas directas existe mayor control. Las réplicas directas son las que se han llevado a cabo en proyectos ya mencionados tales como el *Reproducibility Project: Psychology* y los *Many Labs*.
