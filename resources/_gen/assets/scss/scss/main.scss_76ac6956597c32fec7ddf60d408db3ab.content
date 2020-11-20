@@ -9142,6 +9142,10 @@ div.mermaid {
   border-radius: 3px;
   background: #fff2cc; }
 
+.card-text p a:hover, .powered-by a:hover {
+  background: #1155cc;
+  color: #fff2cc; }
+
 /* blog formatting */
 .hljs {
   background: #fff2cc !important; }

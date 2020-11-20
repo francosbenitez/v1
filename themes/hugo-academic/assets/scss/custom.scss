@@ -18,6 +18,7 @@ p a:hover {
    background: #1155cc;
    color: #fff2cc;
  }
+ 
 }
 
 /* link styling */
@@ -26,6 +27,11 @@ p a:hover {
   padding: 3px;
   border-radius: 3px;
   background: $light-grey;
+}
+
+.card-text p a:hover, .powered-by a:hover { 
+   background: #1155cc;
+   color: #fff2cc;
 }
 
 /* blog formatting */
