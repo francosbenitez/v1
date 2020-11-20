@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Franco Sebastián Benítez © 2020 "
+copyright = "Franco Sebastián Benítez &copy; {year}"
 
 ############################
 ## Advanced options below ##
@@ -75,6 +75,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
  [permalinks]
   post = "/blog/:slug/"
   authors = "/autor/:slug/"
+  project = "/proyecto/:slug/"
+  projects = "/proyectos/:slug/"
 #  tags = "/tag/:slug/"
 #  categories = "/category/:slug/"
 #  publication_types = "/publication-type/:slug/"

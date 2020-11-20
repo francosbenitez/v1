@@ -7,14 +7,10 @@ education:
   courses:
   - course: Licenciatura en Psicología
     institution: Universidad de Buenos Aires
-    year: 2016-En curso
+    year: 2016 - 2021
 email: ""
 interests:
-- Metodología
 - Estadística
-- Epistemología
-- Lógica
-- Ética
 - Salud
 - R
 - Metaciencia

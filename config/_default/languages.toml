@@ -25,8 +25,12 @@
 #  weight = 20
   [[es.menu.main]]
   name = "Blog"
-  url = "/blog"
+  url = "blog"
   weight = 20
+[[es.menu.main]]
+  name = "Proyectos"
+  url = "/proyectos"
+  weight = 30
 #  [[es.menu.main]]
 #  name = "Twitter"
 #  url = "#twitter"
