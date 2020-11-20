@@ -4,5 +4,5 @@
 
 Mi sitio web, construido usando el paquete blogdown de R, el Hugo academic theme y Netlify.
 
-
+<a href="http://www.connorrothschild.com/" rel="nofollow"><img src="/connorrothschild/connorrothschild.com/raw/master/thumbnail.jpg" alt="Website Thumbnail" style="max-width:100%;"></a>
  
