@@ -4,5 +4,5 @@
 
 Mi sitio web, construido usando el paquete blogdown de R, el Hugo academic theme y Netlify.
 
-<a href="http://francosbenitez.netlify.app" rel="nofollow"><img src="/francosbenitez/website/raw/master/thumbnail.png" alt="Website Thumbnail"></a>
+<a href="http://francosbenitez.netlify.app" rel="nofollow"><img src="/francosbenitez/website/raw/master/thumbnail.png"></a>
 
