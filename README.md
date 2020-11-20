@@ -4,5 +4,5 @@
 
 Mi sitio web, construido usando el paquete blogdown de R, el Hugo academic theme y Netlify.
 
-
+<img src="/francosbenitez/website/img/screen_web.png" alt="Website Thumbnail" style="max-width:100%;">
  
