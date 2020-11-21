@@ -5,6 +5,12 @@ $light-grey: #fff2cc;
 $sta-primary-dark: #2079c7;
 $sta-primary-light: grey;
 
+.navbar {
+  font-weight: $font-bold !important;
+  color: $sta-primary-dark;
+
+}
+
 /* article styling */
 .article {
   p a {

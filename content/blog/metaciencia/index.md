@@ -68,6 +68,6 @@ Stroebe, W. (2019). What Can We Learn from Many Labs Replications? Basic and App
 
 Verfaellie, M., & McGwin, J. (2011, diciembre). The case of Diederik Stepel. Psychological Science Agenda. Recuperado de https://www.apa.org/science/about/psa/2011/12/diederik-stapel
 
-Yong, E. (2018, 19 de noviembre). Psychology’s Replication Crisis Is Running Out of Excuses. The Atlantic. Recuperado de https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/
+Yong, E. (2018, 19 de noviembre). Psychology’s Replication Crisis Is Running Out of Excuses. The Atlantic. Recuperado de https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/ 
 
 [^1]: Charris (2018) diferencia entre la replicación directa y la conceptual: mientras que la primera refiere a intentar reproducir el estudio original utilizando los mismos métodos, materiales y forma de presentación teniendo como única diferencia la muestra, la segunda alude a poner a poner a prueba la misma hipótesis del estudio original con otros diseños. Según este autor, la interpretación de ambas réplicas se debe interpretar de manera distinta, puesto que en las réplicas directas existe mayor control. Las réplicas directas son las que se han llevado a cabo en proyectos ya mencionados tales como el *Reproducibility Project: Psychology* y los *Many Labs*.
