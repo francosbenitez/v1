@@ -9229,6 +9229,22 @@ a.hero-cta-alt:hover {
 .btn {
   border-radius: 0px; }
 
+.btn-links .btn {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: #0072B2;
+  border-color: #0072B2;
+  background-color: #fff !important; }
+
+.btn-links .btn:hover {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: #fff;
+  border-color: #fff;
+  background-color: #0072B2 !important; }
+
 .btn.btn-sm, .btn-group-sm > .btn {
   border-radius: 0px;
   background-color: #fff; }
