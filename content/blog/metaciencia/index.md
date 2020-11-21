@@ -4,8 +4,8 @@ subtitle: Los problemas y las soluciones de la ciencia psicológica
 summary: Los problemas y las soluciones de la ciencia psicológica
 authors:
 - admin
-tags: []
-categories: []
+tags: [metaciencia]
+categories: [metaciencia]
 date: "2020-11-19"
 lastMod: "2020-11-19"
 featured: true
