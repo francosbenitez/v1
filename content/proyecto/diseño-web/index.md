@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-Desde los inicios del Movimiento Estudiantil por la Psicología Científica (MEPC), estuve comprometido con su desarrollo. Entre mis aportes, se encuentra la creación de la página web con base en mis conocimientos en R, Hugo y blogdown.
+Desde los inicios del Movimiento Estudiantil por la Psicología Científica (MEPC), estuve fuertemente comprometido con su desarrollo. Entre mis aportes, se encuentra la creación de la página web con base en mis conocimientos en R, Hugo y blogdown.
 
 
