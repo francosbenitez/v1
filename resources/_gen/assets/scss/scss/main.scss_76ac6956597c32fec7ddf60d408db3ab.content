@@ -9129,22 +9129,22 @@ div.mermaid {
   text-decoration: none;
   padding: 3px;
   border-radius: 3px;
-  background: white; }
+  background: #fff2cc; }
 
 .card-text p a:hover, .powered-by a:hover {
   background: #0072B2;
-  color: white; }
+  color: #fff2cc; }
 
 /* article styling */
 .article p a {
   text-decoration: none;
   padding: 3px;
   border-radius: 3px;
-  background: white; }
+  background: #fff2cc; }
 
 .article p a:hover {
   background: #0072B2;
-  color: white; }
+  color: #fff2cc; }
 
 /* fix navbar font weight */
 .navbar-light .navbar-nav > .nav-item > .nav-link,
