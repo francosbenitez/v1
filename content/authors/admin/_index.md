@@ -42,8 +42,7 @@ social:
 #  link: https://www.linkedin.com/in/francosbenitez/
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- admin
 ---
 
 Franco Sebastián Benítez es estudiante de psicología de la Universidad de Buenos Aires (UBA). Sus intereses principales giran en torno a la aplicación de la ciencia de datos a la ciencia psicológica.
