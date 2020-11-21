@@ -2,10 +2,9 @@
 title: "Herramientas útiles para estudiantes de psicología"
 subtitle: Lo que todos deberían saber
 summary: Lo que todos deberían saber
-authors:
-- admin
-tags: []
-categories: []
+authors: []
+tags: [pedagogía]
+categories: [pedagogía]
 date: "2020-09-19"
 lastMod: "2020-09-19"
 featured: true

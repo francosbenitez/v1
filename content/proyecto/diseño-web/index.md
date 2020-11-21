@@ -3,7 +3,7 @@
 
 title: "Diseño web con Hugo y blogdown"
 summary: "Sitio web del Movimiento Estudiantil por la Psicología Científica (MEPC)"
-authors: [admin]
+authors: []
 tags: [R]
 categories: [R]
 date: 2020-11-19T16:17:20-08:00

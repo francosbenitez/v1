@@ -2,11 +2,17 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "Muli:400,500,600,700,800,900|Lato:400,500,600,700,800,900|Roboto+Mono:400,500,600,700,800,900|Khula:400,500,600,700|Inter:400,500,600,700,800,900"
+google_fonts = "Karla:300,400,500|IBM+Plex+Sans:300,400,500|Roboto+Mono"
+# old main font: Fira+Sans 
 
 # Font families
-heading_font = "Inter"
-body_font = "Lato"
-nav_font = "Inter"
+heading_font = "IBM Plex Sans"
+body_font = "Karla"
+nav_font = "IBM Plex Sans"
 mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
+
 
