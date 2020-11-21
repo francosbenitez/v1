@@ -26,7 +26,11 @@ links:
   url: https://github.com/mepc-website/mepc
   icon_pack: fab
   icon: github
-
+- name: Sitio web
+  url: http://mepc.netlify.app
+  icon_pack: 
+  icon:  
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
