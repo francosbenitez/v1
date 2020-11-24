@@ -1,4 +1,21 @@
 /* link styling */
+
+ .article-style a {
+  text-decoration: none;
+  padding: 3px;
+  border-radius: 3px;
+  background: #fff2cc;
+  cursor: pointer;
+}
+
+.article-style  a:hover {
+  text-decoration: none !important;
+  background: #0072B2;
+  color: #fff2cc;
+  cursor: pointer;
+  transition: color 0.6s ease;
+}
+
 .card-text p a, .powered-by a {
   text-decoration: none;
   padding: 3px;
