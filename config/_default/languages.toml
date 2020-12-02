@@ -40,6 +40,6 @@
   url = "/contacto"
   weight = 40
   [[es.menu.main]]
-#  name = "CV"
-#  url = "files/cv.pdf"
-#  weight = 50
+  name = "CV"
+  url = "https://docs.google.com/document/d/1Fb7vYLEil6tqgvvUQe5-AFmPiuDBLwTSzj_7athJhqU/edit#heading=h.y7d3xdxnr44m"
+  weight = 50
