@@ -80,6 +80,10 @@ article {
   transition: color 0.6s ease;
 }
 
+.article-title a:hover {
+  color: #151515;
+}
+
 .dark .text-muted {
   color: rgba(255,255,255,0.54) !important;
 }
@@ -113,8 +117,12 @@ article .article-metadata {
   color: rgba(255,255,255,0.54);
 }
 
+.dark .article-metadata a:hover {
+  color: rgba(255,255,255,0.54);
+}
+
 .article-metadata a:hover {
-  color: $sta-primary;
+  color: rgba(0,0,0,.54);
 }
 
 .article-categories {

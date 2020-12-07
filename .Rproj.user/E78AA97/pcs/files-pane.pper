@@ -1,5 +1,5 @@
 {
-    "path": "~/GitHub/website/config/_default",
+    "path": "~/GitHub/website/themes/hugo-academic/assets/scss/academic",
     "sortOrder": [
         {
             "columnIndex": 2,
