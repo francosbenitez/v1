@@ -118,8 +118,7 @@ nav#navbar-main li.nav-item {
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: $sta-menu-title;
-  background-color: transparent;
+  color: #E7A000 !important;
 }
 
 @media screen and (max-width: 1200px) {

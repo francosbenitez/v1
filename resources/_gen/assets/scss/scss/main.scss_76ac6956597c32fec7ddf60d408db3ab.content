@@ -7746,8 +7746,7 @@ nav#navbar-main li.nav-item {
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: #474747;
-  background-color: transparent; }
+  color: #E7A000 !important; }
 
 @media screen and (max-width: 1200px) {
   .navbar {
@@ -8092,7 +8091,7 @@ article {
   transition: color 0.6s ease; }
 
 .article-title a:hover {
-  color: #151515; }
+  color: #E7A000 !important; }
 
 .dark .text-muted {
   color: rgba(255, 255, 255, 0.54) !important; }
@@ -9260,6 +9259,22 @@ a.hero-cta-alt:hover {
 .btn {
   border-radius: 0px; }
 
+.btn.btn-outline-primary.px-3.py-2 {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: #0072B2;
+  border-color: #0072B2;
+  background-color: #fff !important; }
+
+.btn.btn-outline-primary.px-3.py-2:hover {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: #fff;
+  border-color: #fff;
+  background-color: #0072B2 !important; }
+
 .btn-links .btn {
   padding: 5px .5rem 5px .5rem;
   line-height: 1;
@@ -9408,7 +9423,7 @@ table {
   content: ''; }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); }
+  box-shadow: 6px 6px 2px 0 #0072B2; }
 
 .card:hover .card-image.hover-overlay:before {
   opacity: 0; }

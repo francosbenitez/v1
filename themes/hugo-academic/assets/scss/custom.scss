@@ -154,6 +154,24 @@ a.hero-cta-alt:hover {
 
 }
 
+.btn.btn-outline-primary.px-3.py-2 {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: #0072B2;
+  border-color: #0072B2;
+  background-color: $sta-menu_primary !important;
+}
+
+.btn.btn-outline-primary.px-3.py-2:hover {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+  box-shadow: 3px 3px 0 0 #0072B2;
+  color: $sta-menu_primary;
+  border-color: $sta-menu_primary;
+  background-color: #0072B2 !important;
+}
+
 .btn-links .btn {
   padding: 5px .5rem 5px .5rem;
   line-height: 1;
@@ -338,7 +356,7 @@ table {
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 6px 6px 2px 0 #0072B2;;
 }
 
 .card:hover .card-image.hover-overlay:before {
