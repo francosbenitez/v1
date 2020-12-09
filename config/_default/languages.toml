@@ -14,7 +14,7 @@
   contentDir = "content"
   title = "Franco Sebastián Benítez"
   [es.params]
-  description = ""
+  description = "Estudiante de psicología entusiasta de la estadística y la programación en R"
   [[es.menu.main]]
   name = "Acerca"
   url = "/acerca"
