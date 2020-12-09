@@ -7837,8 +7837,7 @@ nav#navbar-main li.nav-item {
 .card h4 {
   font-size: 0.9rem;
   font-weight: 700;
-  line-height: 1.5;
-  text-transform: uppercase; }
+  line-height: 1.5; }
 
 .card h4 a {
   color: #000;
