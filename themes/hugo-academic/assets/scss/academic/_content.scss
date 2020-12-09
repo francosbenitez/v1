@@ -76,12 +76,13 @@ article {
 }
 
 .article-title a {
-  color: #151515;
+  color: #474747;
   transition: color 0.6s ease;
 }
 
 .article-title a:hover {
-  color: #E7A000 !important;
+  color: #474747 !important;
+  text-decoration: underline !important;
 }
 
 .dark .text-muted {
