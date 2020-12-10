@@ -54,6 +54,7 @@ height = "400px"
   use_pages = true
   pages_title = "Entradas recientes"
   pages_type = "blog"
+  url = "/blog"
   
  # [[item]]
  #  title = "Let's build something"
@@ -79,6 +80,7 @@ height = "400px"
   use_pages = true
   pages_title = "Proyectos recientes"
   pages_type = "proyecto"
+  url = "/proyectos"
 
   overlay_color = "#56B4E9"  # An HTML color value.
   overlay_img = "headers/fondo6.jpg"  # Image path relative to your `static/img/` folder.
