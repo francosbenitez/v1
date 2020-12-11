@@ -15,10 +15,10 @@
   {{ $query := where site.RegularPages "Type" $item.pages_type }}
   {{$recent_item := index ($query) 0}} 
   {{ $i18n := "" }}
-  {{ if eq $item.pages_type "post" }}
+  {{ if eq $item.pages_type "blog" }}
     {{ $i18n = "more_posts" }}
-  {{ else if eq $item.pages_type "talk" }}
-    {{ $i18n = "more_talks" }}
+  {{ else if eq $item.pages_type "proyecto" }}
+    {{ $i18n = "more_projects" }}
   {{ else if eq $item.pages_type "publication" }}
     {{ $i18n = "more_publications" }}
   {{ else }}

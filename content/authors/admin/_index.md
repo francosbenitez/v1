@@ -37,9 +37,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/francosbenitez
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/francosbenitez/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/francosbenitez/
 superuser: true
 user_groups:
 - admin

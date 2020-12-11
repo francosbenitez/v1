@@ -56,9 +56,11 @@
 - id: more_pages
   translation: Ver todo
 - id: more_posts
-  translation: Más posts
+  translation: Más entradas
 - id: more_talks
   translation: Más charlas
+- id: more_projects
+  translation: Más proyectos
 - id: more_publications
   translation: Más publicaciones
 - id: contact_name

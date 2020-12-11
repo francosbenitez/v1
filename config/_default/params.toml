@@ -107,6 +107,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/francosbenitez"},
   {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/francosbenitez"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/francosbenitez/"},
   ]
 
 ############################
