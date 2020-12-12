@@ -1,12 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Diseño web con Hugo y blogdown"
+title: "Diseño web con Hugo"
 summary: "Sitio web del Movimiento Estudiantil por la Psicología Científica (MEPC)"
 authors: []
 tags: [R]
 categories: [R]
 date: 2020-11-19T16:17:20-08:00
+slug: diseño-web-con-hugo
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
