@@ -52,7 +52,7 @@ height = "400px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
   use_pages = true
-  pages_title = "Última entrada"
+  pages_title = "Entrada reciente"
   pages_type = "blog"
   url = "/blog"
   
@@ -78,7 +78,7 @@ height = "400px"
   align = "center"
 
   use_pages = true
-  pages_title = "Último proyecto"
+  pages_title = "Proyecto reciente"
   pages_type = "proyecto"
   url = "/proyectos"
 
