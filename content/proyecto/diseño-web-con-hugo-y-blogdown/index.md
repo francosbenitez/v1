@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Diseño web con Hugo"
+title: "Diseño web con Hugo y blogdown"
 summary: "Sitio web del Movimiento Estudiantil por la Psicología Científica (MEPC)"
 authors: []
 tags: [R]
 categories: [R]
 date: 2020-11-19T16:17:20-08:00
-slug: diseño-web-con-hugo
+slug: diseño-web-con-hugo-y-blogdown
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/mepc-website/mepc"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,15 +22,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: GitHub
-  url: https://github.com/mepc-website/mepc
-  icon_pack: fab
-  icon: github
-- name: Sitio web
-  url: http://mepc.netlify.app
-  icon_pack: 
-  icon:  
+# links:
+# - name: GitHub
+#  url: https://github.com/mepc-website/mepc
+#  icon_pack: fab
+#  icon: github
+# - name: Sitio web
+#  url: http://mepc.netlify.app
+#  icon_pack: 
+#  icon:  
   
 url_code: ""
 url_pdf: ""
