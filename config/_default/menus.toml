@@ -19,10 +19,10 @@
   name = "Contact"
   url = "/contact"
   weight = 40
-[[main]]
-    name = "CV"
-    url = "https://docs.google.com/document/d/1Fb7vYLEil6tqgvvUQe5-AFmPiuDBLwTSzj_7athJhqU/edit#heading=h.y7d3xdxnr44m"
-    weight = 50
+# [[main]]
+#    name = "CV"
+#    url = "https://docs.google.com/document/d/1Fb7vYLEil6tqgvvUQe5-AFmPiuDBLwTSzj_7athJhqU/edit#heading=h.y7d3xdxnr44m"
+#    weight = 50
 # [[main]]
 #    name = "Twitter"
 #    url = "#twitter"

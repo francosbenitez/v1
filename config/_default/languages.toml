@@ -9,37 +9,37 @@ contentDir = "content"  # Uncomment for multi-lingual sites, and move English co
 
 # Uncomment the lines below to configure your website in a second language.
 # Configure the Spanish version of the site.
-[es]
-  languageCode = "es"
-  contentDir = "content/es"
-  title = "Franco Sebastián Benítez"
-  [es.params]
-  description = "Estudiante de psicología entusiasta de la estadística y la programación en R"
-  [[es.menu.main]]
-  name = "Acerca"
-  url = "/acerca"
-  weight = 10
+# [es]
+# languageCode = "es"
+#  contentDir = "content/es"
+#  title = "Franco Sebastián Benítez"
+#  [es.params]
+#  description = "Estudiante de psicología entusiasta de la estadística y la programación en R"
+#  [[es.menu.main]]
+#  name = "Acerca"
+#  url = "/acerca"
+#  weight = 10
 #  [[es.menu.main]]
 #  name = "Experiencia"
 #  url = "#experience"
 #  weight = 20
-  [[es.menu.main]]
-  name = "Blog"
-  url = "blog"
-  weight = 20
-[[es.menu.main]]
-  name = "Proyectos"
-  url = "/proyectos"
-  weight = 30
+#  [[es.menu.main]]
+#  name = "Blog"
+#  url = "blog"
+#  weight = 20
+# [[es.menu.main]]
+#  name = "Proyectos"
+#  url = "/proyectos"
+#  weight = 30
 #  [[es.menu.main]]
 #  name = "Twitter"
 #  url = "#twitter"
 #  weight = 30
-  [[es.menu.main]]
-  name = "Contacto"
-  url = "/contacto"
-  weight = 40
-  [[es.menu.main]]
-  name = "CV"
-  url = "https://docs.google.com/document/d/1Fb7vYLEil6tqgvvUQe5-AFmPiuDBLwTSzj_7athJhqU/edit#heading=h.y7d3xdxnr44m"
-  weight = 50
+#  [[es.menu.main]]
+#  name = "Contacto"
+#  url = "/contacto"
+#  weight = 40
+#  [[es.menu.main]]
+#  name = "CV"
+#  url = "https://docs.google.com/document/d/1Fb7vYLEil6tqgvvUQe5-AFmPiuDBLwTSzj_7athJhqU/edit#heading=h.y7d3xdxnr44m"
+#  weight = 50
