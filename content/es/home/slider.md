@@ -52,35 +52,35 @@ height = "400px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
   use_pages = true
-  pages_title = "Recent post"
+  pages_title = "Entrada reciente"
   pages_type = "blog"
   url = "/blog"
   
- [[item]]
-   title = "Projects"
-   content = "My projects done, mainly, in R"
+[[item]]
+   title = "Proyectos"
+   content = "My proyectos realizados, principalmente, en R"
    align = "center"
 
    overlay_color = "#56B4E9"  # An HTML color value.
    overlay_img = "headers/fondo6.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
-   cta_label = "SEE ALL PROJECTS"
-   cta_url = "/projects"
+   cta_label = "VER PROYECTOS"
+   cta_url = "/proyectos"
    cta_icon_pack = "fas"
    cta_icon = "folder-open"
   
    use_pages = false
   
 # [[item]]
-# title = ""
+#  title = ""
 #  content = ""
 #  align = "center"
 
 #  use_pages = true
-#  pages_title = "Recent project"
-#  pages_type = "project"
-#  url = "/proyects"
+#  pages_title = "Proyecto reciente"
+#  pages_type = "proyecto"
+#  url = "/proyectos"
 
 #  overlay_color = "#56B4E9"  # An HTML color value.
 #  overlay_img = "headers/fondo6.jpg"  # Image path relative to your `static/img/` folder.

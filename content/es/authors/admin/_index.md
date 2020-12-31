@@ -5,26 +5,26 @@ bio:
   
 education:
   courses:
-  - course: Licensure in Psychology
-    institution: University of Buenos Aires
+  - course: Licenciatura en Psicología
+    institution: Universidad de Buenos Aires
     year: 2016 - 2021
 email: ""
 interests:
-- Statistics
-- Health
+- Estadística
+- Salud
 - R
-- Metascience
-- Open science
-- Data science
+- Metaciencia
+- Ciencia abierta
+- Ciencia de datos
 name: Franco Sebastián Benítez
 organizations:
 - name: PSI, UBA
   url: "http://www.psi.uba.ar/"
-role: Undergraduate Psychology Student
+role: Estudiante de Psicología
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'
+  link: '/contacto'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/francosbenitez
@@ -45,4 +45,4 @@ user_groups:
 - admin
 ---
 
-Franco Sebastián Benítez is an undergraduate psychology student at University of Buenos Aires (UBA). His main interests revolve around the application of data science to psychological science.
+Franco Sebastián Benítez es estudiante de psicología de la Universidad de Buenos Aires (UBA). Sus intereses principales giran en torno a la aplicación de la ciencia de datos a la ciencia psicológica.
