@@ -20,7 +20,7 @@ name: Franco Sebastián Benítez
 organizations:
 - name: PSI, UBA
   url: "http://www.psi.uba.ar/"
-role: Undergraduate Psychology Student
+role: Psychology Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,4 +45,4 @@ user_groups:
 - admin
 ---
 
-Franco Sebastián Benítez is an undergraduate psychology student at University of Buenos Aires (UBA). His main interests revolve around the application of data science to psychological science.
+Franco Sebastián Benítez is a psychology student at University of Buenos Aires (UBA). His main interests revolve around the application of data science to psychological science.
