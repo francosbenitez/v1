@@ -30,8 +30,8 @@ subtitle = ""
     tag = "R"
     
   [[content.filter_button]]
-    name = "Python"
-    tag = "Python"
+    name = "Other"
+    tag = "web design"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

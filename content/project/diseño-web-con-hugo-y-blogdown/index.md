@@ -4,8 +4,8 @@
 title: "Web design with Hugo and blogdown"
 summary: "Website of the *Movimiento Estudiantil por la Psicología Científica (MEPC)*"
 authors: []
-tags: [R]
-categories: [R]
+tags: [web design]
+categories: [web design]
 date: 2020-11-19T16:17:20-08:00
 slug: web-design-with-hugo-and-blogdown
 
@@ -44,7 +44,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Desde los inicios del Movimiento Estudiantil por la Psicología Científica (MEPC), estuve fuertemente comprometido con su desarrollo. Entre mis aportes, se encuentra la creación de la página web con base en mis conocimientos en R, Hugo y blogdown.
-
-

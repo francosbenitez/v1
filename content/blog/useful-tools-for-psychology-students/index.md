@@ -1,5 +1,5 @@
 ---
-title: "Useful tools for psychology students"
+title: "Useful Tools for Psychology Students"
 subtitle: What everyone should know
 summary: What everyone should know
 authors: []
