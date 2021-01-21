@@ -6,7 +6,7 @@ My personal website, built using the R package blogdown, the Hugo Academic theme
 
 ## Acknowledgements
 
-This website contains aspects of the following beautiful websites: 
+This website contains aspects of the following beautiful sites: 
 
 - [malco.io](malco.io).
 - [connorrothschild.com](https://www.connorrothschild.com/).
