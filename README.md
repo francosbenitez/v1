@@ -8,7 +8,7 @@ My personal website, built using the R package blogdown, the Hugo Academic theme
 
 This website contains aspects of the following beautiful sites: 
 
-- [malco.io](malco.io).
+- [malco.io](https://malco.io/).
 - [connorrothschild.com](https://www.connorrothschild.com/).
 - [isabella-b.com](https://isabella-b.com/).
 
