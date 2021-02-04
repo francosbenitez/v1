@@ -4,13 +4,7 @@
 
 My personal website, built using the R package blogdown, the Hugo Academic theme, and Netlify.
 
-## Acknowledgements
 
-This website contains aspects of the following beautiful sites: 
-
-- [malco.io](https://malco.io/)
-- [connorrothschild.com](https://www.connorrothschild.com/)
-- [isabella-b.com](https://isabella-b.com/)
 
 [![Website Thumbnail](thumbnail.png)](http://francosbenitez.netlify.app)
 
