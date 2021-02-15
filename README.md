@@ -11,7 +11,7 @@ My personal website, built using the R package blogdown, the Hugo Academic theme
 ## Credits
 ```
 Images:
-	    Unsplash (unsplash.com)
+	Unsplash (unsplash.com)
 CSS:
         Malcolm Barret (https://malco.io/).
         Connor Rothschild (https://www.connorrothschild.com/).
