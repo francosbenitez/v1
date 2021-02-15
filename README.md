@@ -10,10 +10,10 @@ My personal website, built using the R package blogdown, the Hugo Academic theme
 
 ## Credits
 ```
-CSS
-- [Malcolm Barret](https://malco.io/).
-- [Connor Rothschild](https://www.connorrothschild.com/).
-- [Isabella Benabaye](https://isabella-b.com/).
+CSS:
+    - Malcolm Barret (https://malco.io/).
+    - Connor Rothschild (https://www.connorrothschild.com/).
+    - Isabella Benabaye (https://isabella-b.com/).
 ```
 
 
