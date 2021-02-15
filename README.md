@@ -8,3 +8,12 @@ My personal website, built using the R package blogdown, the Hugo Academic theme
 
 [![Website Thumbnail](thumbnail.png)](http://francosbenitez.netlify.app)
 
+## Credits
+```
+CSS
+- [Malcolm Barret](https://malco.io/).
+- [Connor Rothschild](https://www.connorrothschild.com/).
+- [Isabella Benabaye](https://isabella-b.com/).
+```
+
+
