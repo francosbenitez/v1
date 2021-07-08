@@ -5,13 +5,3 @@
 My **<ins>old</ins>** personal website, built using the R package blogdown, the Hugo Academic theme, and Netlify.
 
 [![Website Thumbnail](thumbnail.png)](http://francosbenitez.netlify.app)
-
-## Credits
-```
-Images:
-	Unsplash (unsplash.com)
-Various CSS aspects taken from:
-        Malcolm Barret (https://malco.io/).
-```
-
-
