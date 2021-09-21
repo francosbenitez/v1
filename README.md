@@ -3,5 +3,8 @@
 # Personal Website, v1
 - Developed my first portfolio website using the academic theme of the R blogdown package.
 
-# Project Images
+## Live Demo
+- http://francosbenitez.netlify.app/
+
+## Project Images
 [![Website Thumbnail](thumbnail.png)](http://francosbenitez.netlify.app)
